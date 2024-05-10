@@ -1,6 +1,5 @@
 package com.kuanyu.springbootmall.service.impl;
 
-import com.kuanyu.springbootmall.constant.ProductCategory;
 import com.kuanyu.springbootmall.dao.ProductDao;
 import com.kuanyu.springbootmall.dto.ProductQueryParams;
 import com.kuanyu.springbootmall.dto.ProductRequest;
